@@ -5,8 +5,6 @@ console.log(typeof(score));
 
 let valueInNumber = Number(score) // changing type of score from string to number
 console.log(typeof valueInNumber);
-
-
 // now second example
 let score_1="33abc"
 console.log(typeof score_1);
